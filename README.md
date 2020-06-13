@@ -5,17 +5,17 @@
 Ја добив група 5
 
 Control Flow Graph
-I ! [] (https://github.com/majakrstevska/SI_Lab2_186037/blob/master/CONTROL-FLOW%20GRAPH%2C%20%D0%B3%D1%80%D1%83%D0%BF%D0%B0%20%D0%BD%D0%B0%20%D0%BA%D0%BE%D0%B4%20%D0%B1%D1%80.%205.jpg)
+I![CONTROL-FLOW GRAPH, група на код бр. 5](https://github.com/majakrstevska/SI_Lab2_186037/blob/master/CONTROL-FLOW%20GRAPH%2C%20%D0%B3%D1%80%D1%83%D0%BF%D0%B0%20%D0%BD%D0%B0%20%D0%BA%D0%BE%D0%B4%20%D0%B1%D1%80.%205.jpg)
 
 Цикломатска комплексност
 Цикломатската комплексност на овој код е 6. Начинот на кој е одредена е согласно формулите P+1, E-N+2, R. Па во овој случај бројот на ребра во овој граф е 17-13темиња+2=6. Бројот на предикатни јазли е 5, па според формулата 5+1=6. И бројот на региони во графот е 6, па R=6. Па цикломатската комплексност на овој граф е 6.
 
 Тест случаи според критериумот Every Statement
-I ! [] (https://github.com/majakrstevska/SI_Lab2_186037/blob/master/tabela%201.png)
+I![tabela1](https://github.com/majakrstevska/SI_Lab2_186037/blob/master/tabela%201.png)
 
 Тест случаи според критериумот Every Branch
 
-I ! [] (https://github.com/majakrstevska/SI_Lab2_186037/blob/master/slika1.png)
+I![slika1](https://github.com/majakrstevska/SI_Lab2_186037/blob/master/slika1.png)
 
 Објаснување за напишаните unit тестови
 Првиот тест го евалуира условот кој проверува дали големината на листата е нула, т.е дали станува збор за празна листа, или внесена е листа која што ги содржи бараните карактери. Па затоа како тест пример се внесува празна листа, со цел тој услов да биде исполнет и тестот да фрли исклучок со соодветна порака која што покажува дека големината на листата треба да биде поголема од нула
