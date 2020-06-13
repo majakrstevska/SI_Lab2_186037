@@ -1,4 +1,5 @@
 Втора лабораториска вежба по Софтверско Инженерство
+
 Маја Крстевска 186037
 
 Група на код:
@@ -16,7 +17,6 @@ I![tabela1](https://github.com/majakrstevska/SI_Lab2_186037/blob/master/tabela%2
 Тест случаи според критериумот Every Branch
 
 I![slika1](https://github.com/majakrstevska/SI_Lab2_186037/blob/master/slika1.png)
-
 Објаснување за напишаните unit тестови
 
 
